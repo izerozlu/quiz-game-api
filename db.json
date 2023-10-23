@@ -1,104 +1,93 @@
-{
-    "questions": [
-        {
-            "question": "What is the capital of France?",
-            "choices": [
-                "London",
-                "Berlin",
-                "Madrid",
-                "Paris"
-            ],
-            "correctAnswer": "Paris"
-        },
-        {
-            "question": "Which planet is known as the Red Planet?",
-            "choices": [
-                "Venus",
-                "Mars",
-                "Jupiter",
-                "Saturn"
-            ],
-            "correctAnswer": "Mars"
-        },
-        {
-            "question": "What is the largest mammal in the world?",
-            "choices": [
-                "Giraffe",
-                "Elephant",
-                "Whale Shark",
-                "Blue Whale"
-            ],
-            "correctAnswer": "Blue Whale"
-        },
-        {
-            "question": "Who wrote the play 'Romeo and Juliet'?",
-            "choices": [
-                "William Shakespeare",
-                "Charles Dickens",
-                "Leo Tolstoy",
-                "Jane Austen"
-            ],
-            "correctAnswer": "William Shakespeare"
-        },
-        {
-            "question": "Which gas do plants absorb from the atmosphere?",
-            "choices": [
-                "Oxygen",
-                "Carbon Dioxide",
-                "Hydrogen",
-                "Nitrogen"
-            ],
-            "correctAnswer": "Carbon Dioxide"
-        },
-        {
-            "question": "What is the largest organ in the human body?",
-            "choices": [
-                "Liver",
-                "Heart",
-                "Brain",
-                "Skin"
-            ],
-            "correctAnswer": "Skin"
-        },
-        {
-            "question": "Which country is known as the Land of the Rising Sun?",
-            "choices": [
-                "China",
-                "India",
-                "Japan",
-                "South Korea"
-            ],
-            "correctAnswer": "Japan"
-        },
-        {
-            "question": "What is the chemical symbol for gold?",
-            "choices": [
-                "Go",
-                "Au",
-                "Ag",
-                "Fe"
-            ],
-            "correctAnswer": "Au"
-        },
-        {
-            "question": "Which famous scientist formulated the theory of relativity?",
-            "choices": [
-                "Isaac Newton",
-                "Albert Einstein",
-                "Galileo Galilei",
-                "Stephen Hawking"
-            ],
-            "correctAnswer": "Albert Einstein"
-        },
-        {
-            "question": "In which year did Christopher Columbus first reach the Americas?",
-            "choices": [
-                "1492",
-                "1510",
-                "1607",
-                "1776"
-            ],
-            "correctAnswer": "1492"
-        }
-    ]
-}
+[
+    {
+      "question": "What is the capital of France?",
+      "choices": ["London", "Berlin", "Madrid", "Paris"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choices": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "choices": ["Giraffe", "Elephant", "Whale Shark", "Blue Whale"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "choices": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "Jane Austen"],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "choices": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+      "correctAnswer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "choices": ["Liver", "Heart", "Brain", "Skin"],
+      "correctAnswer": "Skin"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "choices": ["China", "India", "Japan", "South Korea"],
+      "correctAnswer": "Japan"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "choices": ["Go", "Au", "Ag", "Fe"],
+      "correctAnswer": "Au"
+    },
+    {
+      "question": "Which famous scientist formulated the theory of relativity?",
+      "choices": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "question": "In which year did Christopher Columbus first reach the Americas?",
+      "choices": ["1492", "1510", "1607", "1776"],
+      "correctAnswer": "1492"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "choices": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "choices": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "choices": ["4", "6", "7", "5"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Which gas is known as the 'laughing gas'?",
+      "choices": ["Oxygen", "Methane", "Nitrous Oxide", "Helium"],
+      "correctAnswer": "Nitrous Oxide"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "choices": ["Mars", "Venus", "Saturn", "Jupiter"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "choices": ["Mount Kilimanjaro", "Mount McKinley", "Mount Everest", "Mount Fuji"],
+      "correctAnswer": "Mount Everest"
+    }
+  ]
+  
